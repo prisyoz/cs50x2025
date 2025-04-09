@@ -21,7 +21,8 @@ Create a simple game (maze) using Scratch using conditional statements, variable
 ### Problem Set 2: Arrays and Functions
 - /scrabble: calculated points in Scrabble using arrays and loops.
 - /readability: evaluated reading grades of texts (Flesch-Kincaid score) using functions.
-- /substitution: encrypted a message using a substitution cipher with an alphabetic key given by user.
+- /caesar: encrypted messages using caesar cipher by shifting each letter by some number of places given by user.
+- /substitution: encrypted messages using a substitution cipher with an alphabetic key given by user.
 
 ### Problem Set 3: Algorithms
 - /sort: recognised three sorting algorithms based on their running times.
