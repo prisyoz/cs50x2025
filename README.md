@@ -25,3 +25,8 @@ Create a simple game (maze) using Scratch using conditional statements, variable
 ### Problem Set 3: Algorithms
 - /Plurality: program that runs a plurality election (highest votes win)
 - /Runoff: program that runs a runoff election (voting until the last candidate remains)
+
+
+<br>
+# 📚 Credits
+A huge thank you to Prof. David J. Malan and the rest of the CS50 staff for giving us this free learning opportunity. I thoroughly enjoyed each minute of the lesson with clear explanations and example.
