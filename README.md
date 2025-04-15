@@ -21,3 +21,7 @@ Create a simple game (maze) using Scratch using conditional statements, variable
 - /readability: evaluated reading grades of texts (Flesch-Kincaid score) using functions.
 - /caesar: encrypted messages using caesar cipher by shifting each letter by some number of places given by user.
 - /substitution: encrypted messages using a substitution cipher with an alphabetic key given by user.
+
+### Problem Set 3: Algorithms
+- /Plurality: program that runs a plurality election (highest votes win)
+- /Runoff: program that runs a runoff election (voting until the last candidate remains)
