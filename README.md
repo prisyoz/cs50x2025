@@ -26,6 +26,10 @@ Create a simple game (maze) using Scratch using conditional statements, variable
 - /Plurality: program that runs a plurality election (highest votes win)
 - /Runoff: program that runs a runoff election (voting until the last candidate remains)
 
+### Problem Set 4: Memory
+- /Volume - modify the volume of an audio file
+- /Filterless - Program that applies blur, serpia, grayscale and reflection of an image
+-/ Recover - program that recovers JPEGs from a foresenic image (.raw file)
 
 <br>
 # 📚 Credits
